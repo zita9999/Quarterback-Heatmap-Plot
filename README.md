@@ -5,4 +5,6 @@ The code does require web scraping from Pro-Football-Reference so some quarterba
 
 For most quaterbacks it does work though and from my knowledge should work for years 2010 and over.
 
-Published article can be read here:
+Published article can be read here: https://medium.com/@christopherzita/evaluating-quarterback-performance-using-quarterback-heatmap-plots-159b2ee8d856
+
+
